@@ -11,4 +11,4 @@
 
 3. It will open up IG. When you get to the step of entering a caption, you can paste in the caption from the clipboard.
 
-**Note**: This hashtags this shortcut uses are from [raconteurimagery](https://www.instagram.com/raconteurimagery).
+**Note**: This hashtags this shortcut uses are from [raconteurimagery's](https://www.instagram.com/raconteurimagery) [Random Hashtag Generator](https://drive.google.com/open?id=184YLibCKny33b6pi29yZHraiGw6p6LzXHEBtaQVf_Cw).
